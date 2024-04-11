@@ -88,7 +88,7 @@
 
 ## Usage
 
-Connect your android device or emulator and run the app with `npm run android`
+
 
 <div align="right"><a href="#readme-top">back to top</a></div>
 
@@ -96,6 +96,8 @@ Connect your android device or emulator and run the app with `npm run android`
 <!-- PREVIEW -->
 
 ## Preview
+
+
 
 <div align="right"><a href="#readme-top">back to top</a></div>
 
